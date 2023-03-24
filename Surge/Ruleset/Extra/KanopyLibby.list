@@ -1,0 +1,10 @@
+# > Kanopy
+DOMAIN-SUFFIX,kanopy.com
+DOMAIN-SUFFIX,svc.overdrive.com
+# > Libby
+DOMAIN,libbyapp.com
+DOMAIN-SUFFIX,syndetics.com
+DOMAIN-SUFFIX,bibliocommons.com
+# > Sno-Isle
+DOMAIN-SUFFIX,sno-isle.org
+DOMAIN-SUFFIX,libbyshelf.com
