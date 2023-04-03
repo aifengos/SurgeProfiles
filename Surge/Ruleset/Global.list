@@ -295,6 +295,7 @@ DOMAIN-SUFFIX,zb.com
 DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,discordapp.net
+DOMAIN-SUFFIX,discord.gg
 # > Dropbox
 DOMAIN-SUFFIX,dropbox.com
 DOMAIN-SUFFIX,dropboxapi.com
