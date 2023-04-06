@@ -1,5 +1,6 @@
 # > OpenAI
 DOMAIN-SUFFIX,openai.com
-DOMAIN,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-KEYWORD,openaicom
+DOMAIN-KEYWORD,openaiapi
 DOMAIN-SUFFIX,midjourney.com
