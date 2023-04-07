@@ -1,0 +1,5 @@
+#!name=Fix VPN Detect by some app
+#!desc=解决部分app，如「建行生活」检测到VPN无法启动的问题
+
+[General]
+skip-proxy = %APPEND% *.baidu.com, *.sohu.com, *.ccb.com, *.icbc.com.cn, *.boc.cn, *.abchina.com.cn, *.psbc.com, *.cebbank.com, *.spdb.com.cn
