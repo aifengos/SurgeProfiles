@@ -6,7 +6,7 @@ include-cellular-services = true
 
 [Host]
 *.mnc260.mcc310.pub.3gppnetwork.org = server:1.1.1.1
-# *.mnc260.mcc310.pub.3gppnetwork.org = server:199.85.126.10
-# epdg.epc.mnc260.mcc310.pub.3gppnetwork.org = 208.54.35.163
-# ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org = 208.54.35.163
-# ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org = 208.54.87.3
+#!*.mnc260.mcc310.pub.3gppnetwork.org = server:199.85.126.10
+#!epdg.epc.mnc260.mcc310.pub.3gppnetwork.org = 208.54.35.163
+#!ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org = 208.54.35.163
+#!ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org = 208.54.87.3
