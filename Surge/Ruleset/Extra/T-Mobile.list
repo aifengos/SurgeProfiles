@@ -1,7 +1,9 @@
 # > T-Mobile
-DOMAIN-SUFFIX,t-mobile.com
+DOMAIN-KEYWORD,t-mobile
 DOMAIN,tmobile-sync.quantummetric.com
 DOMAIN,tmobile-app.quantummetric.com
 DOMAIN,tmobile.tt.omtrdc.net
 DOMAIN,tmobile.demdex.net
 DOMAIN,tmobilees.mpeasylink.com
+DOMAIN,tmobile.sc.omtrdc.net
+DOMAIN,fast.tmobile.demdex.net
