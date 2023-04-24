@@ -4,5 +4,3 @@ DOMAIN,tmobile-sync.quantummetric.com
 DOMAIN,tmobile-app.quantummetric.com
 DOMAIN,tmobile.tt.omtrdc.net
 DOMAIN,tmobile.demdex.net
-# > T-Mobile Wi-Fi Calling
-DOMAIN-SUFFIX,mnc260.mcc310.pub.3gppnetwork.org
