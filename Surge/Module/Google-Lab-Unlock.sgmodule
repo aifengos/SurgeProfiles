@@ -2,7 +2,7 @@
 #!desc=Unlock browser restrictions for Google Lab AI search.
 
 [Header Rewrite]
-^https:\/\/labs\.google\.com\/(search|new) header-replace-regex User-Agent \w+\/[\d\.]+$ "AppleWebKit/537.36 Chrome/110.0 Safari/537.36 Edg/110.0"
+^https:\/\/labs\.google\.com\/(search|new) header-replace-regex User-Agent \w+\/[\d\.]+$ "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
 
 [MITM]
 hostname = %APPEND% labs.google.com
