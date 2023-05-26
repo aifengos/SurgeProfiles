@@ -5,7 +5,4 @@
 include-cellular-services = true
 
 [Host]
-epdg.epc.mnc260.mcc310.pub.3gppnetwork.org = 208.54.36.3
-ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org = 208.54.88.35
-ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org = 208.54.2.99
 *.mnc260.mcc310.pub.3gppnetwork.org = server:1.1.1.1
