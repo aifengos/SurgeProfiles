@@ -475,3 +475,6 @@ DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,skype.com
 
+# > Adobe
+DOMAIN-SUFFIX,adobe.com
+DOMAIN-SUFFIX,adobe.io
