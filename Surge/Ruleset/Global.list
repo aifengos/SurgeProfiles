@@ -486,3 +486,5 @@ DOMAIN-SUFFIX,adobeccstatic.com
 DOMAIN-SUFFIX,astockcdn.net
 DOMAIN-SUFFIX,adobeprojectm.com
 DOMAIN-SUFFIX,adobe-identity.com
+DOMAIN-SUFFIX,forter.com
+DOMAIN,ocsp.digicert.com
