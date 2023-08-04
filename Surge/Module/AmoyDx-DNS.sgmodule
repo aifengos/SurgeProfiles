@@ -1,0 +1,4 @@
+[Host]
+*.amoydx.com = script:amoydx_dns
+[Script]
+amoydx_dns = type=dns,script-path=https://raw.githubusercontent.com/aifengos/SurgeProfiles/master/Surge/Rewrite/amoydx_dns.js,script-update-interval=0
