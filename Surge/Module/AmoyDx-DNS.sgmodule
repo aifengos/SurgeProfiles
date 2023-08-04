@@ -1,3 +1,7 @@
+#!name=AmoyDx DNS
+#!desc=Fix AmoyDx Lan DNS Error
+
+
 [Host]
 *.amoydx.com = script:amoydx_dns
 [Script]
