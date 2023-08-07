@@ -488,3 +488,6 @@ DOMAIN-SUFFIX,adobeprojectm.com
 DOMAIN-SUFFIX,adobe-identity.com
 DOMAIN-SUFFIX,forter.com
 DOMAIN,ocsp.digicert.com
+
+# > Premier League
+DOMAIN-SUFFIX,premierleague.com
