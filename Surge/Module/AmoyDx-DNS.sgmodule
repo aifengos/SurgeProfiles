@@ -2,7 +2,7 @@
 #!desc=Fix AmoyDx Lan DNS Error
 
 [General]
-skip-proxy = %APPEND% *.amoydx.com
+always-real-ip = %APPEND% *.amoydx.com
 [Host]
 *.amoydx.com = script:amoydx_dns
 [Script]
