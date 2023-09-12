@@ -1,0 +1,4 @@
+payload:
+  # > Apple LocalLocation
+  - DOMAIN,gs-loc.apple.com
+  # - DOMAIN-SUFFIX,ls.apple.com
