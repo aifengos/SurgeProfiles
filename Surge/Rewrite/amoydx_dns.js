@@ -4,7 +4,7 @@ var ssids = [
 var ssid = $network.wifi.ssid;
 //console.log(said);
 if (ssid === null) {
-    ssid = 'BIT-WIFI-5G'  // 有线网
+    ssid = ''  // 有线网
 };
 
 if (ssids.includes(ssid)) {
