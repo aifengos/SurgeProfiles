@@ -3,7 +3,7 @@
 
 [General]
 # > 跳过代理
-skip-proxy = %APPEND% yunbusiness.ccb.com, *.baidu.com, *.sohu.com, *.ccb.com, *.icbc.com.cn, *.boc.cn, *.abchina.com.cn, *.psbc.com, *.cebbank.com, *.spdb.com.cn, sequoia.apple.com, seed-sequoia.siri.apple.com
+skip-proxy = %APPEND% yunbusiness.ccb.com, *.baidu.com, *.sohu.com, *.ccb.com, *.icbc.com.cn, *.boc.cn, *.abchina.com.cn, *.psbc.com, *.cebbank.com, *.spdb.com.cn
 # > Always Real IP Hosts
 always-real-ip = %APPEND% *.msftconnecttest.com, *.msftncsi.com, *.srv.nintendo.net, *.stun.playstation.net, xbox.*.microsoft.com, *.xboxlive.com, *.logon.battlenet.com.cn, *.logon.battle.net, stun.l.google.com
 
