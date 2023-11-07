@@ -3,7 +3,7 @@ DOMAIN-SUFFIX,nba.com
 DOMAIN-SUFFIX,neulion.com
 DOMAIN-SUFFIX,nbaprop.sc.omtrdc.net
 DOMAIN,rest-prod-nba.evergent.com
-DOMAIN,api2.amplitude.com:443
+DOMAIN,api2.amplitude.com
 DOMAIN,app-measurement.com
-DOMAIN-SUFFIX,easelive.tv:443
+DOMAIN-SUFFIX,easelive.tv
 DOMAIN,nbalpng.akamaized.net
