@@ -106,6 +106,6 @@ IP-CIDR6,2620:107::/32,no-resolve
 PROCESS-NAME,com.netflix.mediaclient
 
 # Google DNS
-IP-CIDR,8.8.8.8/32,no-resolve
-IP-CIDR,8.8.4.4/32,no-resolve
-DOMAIN,dns.google
+# IP-CIDR,8.8.8.8/32,no-resolve
+# IP-CIDR,8.8.4.4/32,no-resolve
+# DOMAIN,dns.google
