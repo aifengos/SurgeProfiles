@@ -104,3 +104,7 @@ IP-CIDR6,2606:F40::/32,no-resolve
 IP-CIDR6,2620:107::/32,no-resolve
 # GEOIP,NETFLIX,no-resolve
 PROCESS-NAME,com.netflix.mediaclient
+
+DOMAIN,dns.google
+IP-CIDR,8.8.8.8/32,no-resolve
+IP-CIDR,8.8.4.4/32,no-resolve
