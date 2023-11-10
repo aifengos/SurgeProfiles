@@ -1,7 +1,9 @@
 # > OpenAI
-DOMAIN-SUFFIX,openai.com
 DOMAIN-KEYWORD,openaicom
 DOMAIN-KEYWORD,openaiapi
+DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,midjourney.com
 DOMAIN-SUFFIX,chatopenai.com
 DOMAIN-SUFFIX,sentry.io
+DOMAIN,cdn.auth0.com
+DOMAIN,ai.com
