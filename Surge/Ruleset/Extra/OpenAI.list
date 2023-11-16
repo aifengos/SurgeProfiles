@@ -7,3 +7,5 @@ DOMAIN-SUFFIX,chatopenai.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN,cdn.auth0.com
 DOMAIN,ai.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
