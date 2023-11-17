@@ -1,11 +1,16 @@
 # > OpenAI
+DOMAIN,ai.com
+DOMAIN-SUFFIX,auth0.com
 DOMAIN-KEYWORD,openaicom
 DOMAIN-KEYWORD,openaiapi
 DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,midjourney.com
 DOMAIN-SUFFIX,chatopenai.com
-DOMAIN-SUFFIX,sentry.io
-DOMAIN,cdn.auth0.com
-DOMAIN,ai.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,openaicom.imgix.net
+
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,midjourney.com
+DOMAIN-SUFFIX,poe.com, OpenAI
+DOMAIN-SUFFIX,segment.io
+DOMAIN-SUFFIX,stripe.com
