@@ -1,9 +1,9 @@
 # > T-Mobile
 DOMAIN-KEYWORD,t-mobile
-DOMAIN,tmobile.tt.omtrdc.net
-DOMAIN-SUFFIX,tmobile.demdex.net
-DOMAIN,tmobilees.mpeasylink.com
 DOMAIN,tmobile.sc.omtrdc.net
+DOMAIN,tmobile.tt.omtrdc.net
+DOMAIN,tmobilees.mpeasylink.com
 DOMAIN-SUFFIX,liveperson.net
-DOMAIN-SUFFIX,quantummetric.com
 DOMAIN-SUFFIX,mnc260.mcc310.pub.3gppnetwork.org
+DOMAIN-SUFFIX,quantummetric.com
+DOMAIN-SUFFIX,tmobile.demdex.net
