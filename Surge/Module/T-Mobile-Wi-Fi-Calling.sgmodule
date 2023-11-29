@@ -5,7 +5,4 @@
 include-cellular-services = true
 
 [Host]
-epdg.epc.mnc260.mcc310.pub.3gppnetwork.org = 208.54.35.163
-ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org = 208.54.35.163
-ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org = 208.54.87.3
-# *.mnc260.mcc310.pub.3gppnetwork.org = server:h3://cloudflare-dns.com/dns-query
+*.mnc260.mcc310.pub.3gppnetwork.org = server:h3://cloudflare-dns.com/dns-query
