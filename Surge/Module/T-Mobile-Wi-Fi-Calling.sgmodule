@@ -5,4 +5,4 @@
 include-cellular-services = true
 
 [Host]
-*.mnc260.mcc310.pub.3gppnetwork.org = server:quic://unfiltered.adguard-dns.com
+*.mnc260.mcc310.pub.3gppnetwork.org = server:1.0.0.1
