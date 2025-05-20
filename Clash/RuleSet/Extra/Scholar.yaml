@@ -69,3 +69,4 @@ payload:
   - DOMAIN-SUFFIX,genomenon.com
   - DOMAIN-SUFFIX,ensembl.org
   - DOMAIN-SUFFIX,bjfenglab.org
+  - DOMAIN-SUFFIX,bibliome.ai
