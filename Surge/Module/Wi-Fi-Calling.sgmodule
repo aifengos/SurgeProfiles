@@ -2,7 +2,8 @@
 #!desc=T-Mobile Wi-Fi Calling hosts和Surge接管Wi-Fi Calling（需要iOS 16.4以上）
 
 [General]
+include-all-networks = true
 include-cellular-services = true
 
 [Host]
-*.mnc260.mcc310.pub.3gppnetwork.org = server:1.0.0.1
+# *.mnc260.mcc310.pub.3gppnetwork.org = server:1.0.0.1
