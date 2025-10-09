@@ -3,5 +3,4 @@
 
 [General]
 include-all-networks = true
-include-local-networks = true
 include-cellular-services = true
